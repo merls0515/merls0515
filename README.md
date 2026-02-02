@@ -5,7 +5,7 @@
 
 ### 🎓 B.Tech CSE (Health Informatics) @ VIT | AI/ML Engineer | Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merlynvictor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlyn-victor-15391b2a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merls0515)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merlyntvictor@gmail.com)
 
@@ -114,18 +114,6 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with a strong foundat
 
 ---
 
-### 🏥 [Arogya Rakshak – Predictive Hospital Management](https://github.com/merls0515)
-> *AI-Driven GIS-Based Healthcare Resource Optimization*
-
-- 🗺️ Orchestrated an AI-driven, real-time **GIS-based system** for hospital resource management
-- 🎯 Supports **1000+ concurrent users** with **<2s response time**
-- 🔮 Implemented ML algorithms for demand forecasting and resource optimization
-- 🏥 Focused on optimizing healthcare delivery across Indian infrastructure
-
-**Tech Stack:** `Python` `Machine Learning` `GIS` `Firebase` `Predictive Analytics`
-
----
-
 ## 🏆 Achievements & Recognition
 
 📝 **IEEE Research Publication (2024)**  
@@ -175,7 +163,7 @@ I'm always excited to collaborate on innovative AI/ML projects, discuss emerging
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/merlynvictor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/merlynvictor](https://www.linkedin.com/in/merlyn-victor-15391b2a6/))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:merlyntvictor@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/merls0515)
 
