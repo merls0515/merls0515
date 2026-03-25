@@ -148,7 +148,7 @@ Co-authored *"Catalyzing Epilepsy Detection"* using LSTM networks and EEG signal
 ---
 ## 📊 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=merls0515&theme=github-compact&area=true&hide_border=true)
 ---
 
 ## 🎯 Current Focus
