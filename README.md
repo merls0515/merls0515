@@ -173,18 +173,52 @@ Co-authored *"Catalyzing Epilepsy Detection"* using LSTM networks and EEG signal
 
 <div align="center">
 
-![Merlyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merls0515&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- ─── TOP STATS ROW ─── -->
+<a href="https://github.com/merls0515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merls0515&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Merlyn's GitHub Stats" />
+</a>
+<a href="https://github.com/merls0515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merls0515&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merls0515&layout=compact&theme=radical&hide_border=true)
+<!-- ─── STREAK STATS ─── -->
+<a href="https://github.com/merls0515">
+  <img width="70%" src="https://streak-stats.demolab.com?user=merls0515&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=merls0515&theme=radical&hide_border=true)
+<!-- ─── TROPHIES ─── -->
+<a href="https://github.com/merls0515?tab=achievements">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=merls0515&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
-## 📊 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=merls0515&theme=github-compact&area=true&hide_border=true)
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/merls0515">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=merls0515&theme=tokyo-night&area=true&hide_border=true&custom_title=Merlyn's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&title_color=70a5fd" alt="GitHub Activity Graph" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merls0515/merls0515/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merls0515/merls0515/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/merls0515/merls0515/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🎯 Current Focus
