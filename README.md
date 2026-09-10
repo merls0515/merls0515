@@ -221,6 +221,19 @@ Co-authored *"Catalyzing Epilepsy Detection"* using LSTM networks and EEG signal
 
 ---
 
+<!-- ─── PROFILE SUMMARY CARD ─── -->
+<a href="https://github.com/merls0515">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merls0515&theme=tokyonight" alt="Profile Summary" />
+</a>
+
+<!-- ─── PRODUCTIVE TIME (BEST COMMIT HOURS) ─── -->
+<a href="https://github.com/merls0515">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=merls0515&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</a>
+<a href="https://github.com/merls0515">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merls0515&theme=tokyonight" alt="Most Commit Language" />
+</a>
+
 ## 🎯 Current Focus
 
 - 🔭 Building advanced RAG systems and agentic AI applications
