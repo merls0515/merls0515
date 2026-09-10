@@ -67,7 +67,7 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with a strong foundat
 ## 💼 Featured Projects
 
 
-### 🩺 [Clinical Assessment Extraction Pipeline] (https://github.com/merls0515/voice-to-clinical-assessment.git)
+### 🩺 [Clinical Assessment Extraction Pipeline](https://github.com/merls0515/voice-to-clinical-assessment.git)
 
 A FastAPI backend that turns a clinical session recording into a **structured, validated `FirstAssessment` JSON**.
 
@@ -83,7 +83,7 @@ A FastAPI backend that turns a clinical session recording into a **structured, v
 
 **Stack:** `Python` · `FastAPI` · `LangGraph` · `Gemini 2.5 Flash-Lite` · `Whisper` · `Pydantic v2` · `MongoDB`
 
-### 🏥 AI Clinical Discharge Summary Agent
+### 🏥 [AI Clinical Discharge Summary Agent](https://github.com/merls0515/discharge-agent)
 
 An agentic AI pipeline that converts **unstructured clinical notes into an evidence-backed clinical discharge summary** using structured extraction, validation, conflict detection, medication reconciliation, and Gemini-based generation.
 
@@ -100,7 +100,6 @@ An agentic AI pipeline that converts **unstructured clinical notes into an evide
 
 **Tech Stack:** `Python` · `Pydantic` · `Gemini 2.5 Flash` · `Clinical NLP` · `Rule-Based Extraction` · `Agentic AI`
 
-🔗 **GitHub:** https://github.com/merls0515/discharge-agent
 
 ### 🔬 [BioEnquire – Biomedical Literature Chatbot](https://github.com/merls0515)
 > *LLM-Powered Intelligent Biomedical Research Assistant*
