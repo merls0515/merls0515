@@ -66,6 +66,42 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with a strong foundat
 
 ## 💼 Featured Projects
 
+
+### 🩺 [Clinical Assessment Extraction Pipeline] (https://github.com/merls0515/voice-to-clinical-assessment.git)
+
+A FastAPI backend that turns a clinical session recording into a **structured, validated `FirstAssessment` JSON**.
+
+**Pipeline:** WAV → Whisper → LangGraph → Gemini extraction → Normalization → Grounding verification → Confidence gate (≥ 0.70) → MongoDB
+
+**Key ideas:**
+- 🎙️ Local Whisper transcription
+- 🕸️ Two-node LangGraph workflow (extract → verify)
+- 🧬 Strict Pydantic schemas (`extra="forbid"`)
+- 📏 Deterministic + LLM grounding checks
+- 🚫 Fail-closed: rejects instead of silently guessing
+- 💾 Separate parse/save workflow with MongoDB persistence
+
+**Stack:** `Python` · `FastAPI` · `LangGraph` · `Gemini 2.5 Flash-Lite` · `Whisper` · `Pydantic v2` · `MongoDB`
+
+### 🏥 AI Clinical Discharge Summary Agent
+
+An agentic AI pipeline that converts **unstructured clinical notes into an evidence-backed clinical discharge summary** using structured extraction, validation, conflict detection, medication reconciliation, and Gemini-based generation.
+
+**Pipeline:** Clinical Notes → Clinical Fact Extraction → Evidence Tracking → Conflict Detection → Medication Reconciliation → Missing Field Detection → Gemini Summary → Trace Log
+
+**Key Features:**
+- 📄 Extracts **diagnoses, medications, dates, allergies, pending results, and hospital course**
+- 🔎 Tracks **source page numbers and supporting evidence** for extracted facts
+- ⚠️ Detects and surfaces **conflicting clinical information**
+- 💊 Performs **medication reconciliation** for added, stopped, and continued medications
+- 🚫 Uses `MISSING` for unavailable information instead of making unsupported assumptions
+- 🧾 Generates `trace.json` for **pipeline traceability and auditability**
+- 🛡️ Handles extraction errors and LLM failures gracefully
+
+**Tech Stack:** `Python` · `Pydantic` · `Gemini 2.5 Flash` · `Clinical NLP` · `Rule-Based Extraction` · `Agentic AI`
+
+🔗 **GitHub:** https://github.com/merls0515/discharge-agent
+
 ### 🔬 [BioEnquire – Biomedical Literature Chatbot](https://github.com/merls0515)
 > *LLM-Powered Intelligent Biomedical Research Assistant*
 
@@ -90,7 +126,7 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with a strong foundat
 
 ---
 
-### 📚 [RAG Chatbot – Agentic AI eBook](https://github.com/merls0515)
+### 📚 [RAG Chatbot – Agentic AI eBook](https://github.com/merls0515/agentic-ai-ebook-assistant.git)
 > *Document-Grounded Conversational AI with Zero Hallucinations*
 
 - 🏗️ Architected a sophisticated RAG-based agent using **LangGraph** and **Google Gemini**
