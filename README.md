@@ -158,6 +158,7 @@ Co-authored *"Catalyzing Epilepsy Detection"* using LSTM networks and EEG signal
 
 ## 📜 Certifications
 
+- ✅ **AWS Certified Data Engineer – Associate** – AWS
 - ✅ **Applied Machine Learning in Python** – Coursera
 - ✅ **MATLAB Onramp & Simulink Onramp** – MathWorks
 - ✅ **Fundamentals in AI & Machine Learning** – Vityarthi
